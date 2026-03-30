@@ -4,7 +4,7 @@ I'm Alicia, perhaps a deer-like animal.
 
 ### Doing
 
-Dedicated to Graphic Design， Front-end web development，and illustration.
+Dedicated to Graphic Design, Front-end web development, and illustration.
 
 <!--
 **AliciaCervidae/AliciaCervidae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
