@@ -2,7 +2,7 @@
 
 I'm Alicia, perhaps a deer-like animal.
 
-### Doing
+### Doing ✨
 
 Dedicated to Graphic Design, Front-end web development, and illustration.
 
