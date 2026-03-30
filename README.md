@@ -6,6 +6,9 @@ I'm Alicia, perhaps a deer-like animal.
 
 Dedicated to Graphic Design, Front-end web development, and illustration.
 
+### Contact ✉️
+Email: irisafterrain@outlook.com
+
 <!--
 **AliciaCervidae/AliciaCervidae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
